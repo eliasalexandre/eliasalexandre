@@ -1,6 +1,6 @@
-# Elias alexandre 👋
+# Elias alexandre 
 
-> Programmer: focused on personal growth. 💻
+Programmer 💻
 
 [![Twitter Badge](https://img.shields.io/badge/-@eliasallex-232334?style=flat-square&labelColor=212134&logo=twitter&logoColor=white&link=https://twitter.com/eliasallex)](https://twitter.com/eliasallex) 
 [![Linkedin Badge](https://img.shields.io/badge/-Elias%20Alexandre-212134?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-alexandre-9511881a7/)](https://www.linkedin.com/in/elias-alexandre-9511881a7/)
@@ -15,6 +15,7 @@ Enthusiast of the best web & mobile development technologies. 🖥
 
 Here are some ideas to get you started:
 
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS, NodeJS, TS...
 - 👯 I’m looking to collaborate on ...

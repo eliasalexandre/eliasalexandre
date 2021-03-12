@@ -8,7 +8,7 @@ Programmer 💻
 Enthusiast of the best web & mobile development technologies. 🖥
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=eliasallex&show_icons=true" alt="eliasAllex"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasallex&show_icons=true&theme=algolia&line_height=27" alt="eliasAllex"/> 
 </p>
 
 <!--

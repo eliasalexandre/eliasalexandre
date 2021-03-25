@@ -12,7 +12,7 @@ Enthusiast of the best web & mobile development technologies. 🖥
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasallex&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasallex&layout=compact&show_icons=true&theme=algolia" alt="Langs" />
 </p>
 
 

@@ -17,6 +17,7 @@ Enthusiast of the best web & mobile development technologies. 🖥
 
 ### contributions
   - [X] [MyCodes](https://github.com/cod3baze)
+  - [X] [currently designing](https://github.com/schedule-lib)
 
 
 <!--

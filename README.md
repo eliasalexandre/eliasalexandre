@@ -8,11 +8,11 @@ Programmer 💻
 Enthusiast of the best web & mobile development technologies. 🖥
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasallex&show_icons=true&theme=algolia&line_height=27" alt="eliasAllex"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasalexandre&show_icons=true&theme=algolia&line_height=27" alt="eliasAllex"/> 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasallex&layout=compact&show_icons=true&theme=algolia" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasalexandre&layout=compact&show_icons=true&theme=algolia" alt="Langs" />
 </p>
 
 ### contributions

@@ -1,6 +1,6 @@
-# Elias alexandre 
+# Elias Alexandre 
 
-Programmer 💻
+💻 Dev & Founder @[cognu.io](https://cognu.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elias%20Alexandre-212134?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-alexandre-9511881a7/)](https://www.linkedin.com/in/elias-alexandre-9511881a7/)
 [![Gmail Badge](https://img.shields.io/badge/-elias.garcia.alexandr@gmail.com-212234?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elias.garcia.alexandr@gmail.com)](mailto:elias.garcia.alexandr@gmail.com)
@@ -15,13 +15,14 @@ Enthusiast of the best web & mobile development technologies. 🖥
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasalexandre&layout=compact&show_icons=true&theme=algolia" alt="Langs" />
 </p>
 
-### contributions
-  - [X] [MyCodes](https://github.com/cod3baze)
-  - [X] [currently designing](https://github.com/schedule-lib)
+👋
+- 🔭 I’m currently working on [©Cognu Inc](https://cognu.io)
+- 🌱 I’m currently programming in React, NodeJS, TS, & React-Native.
+- 📫 How to reach me: [Instagram](https://instagram.com/elias.allexandre)
 
 
 <!--
-**eliasallex/eliasallex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eliasallex/eliasalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

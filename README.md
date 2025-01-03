@@ -11,9 +11,11 @@ Enthusiast of the best web & mobile development technologies. 🖥
   <img src="https://github-readme-stats.vercel.app/api?username=eliasalexandre&show_icons=true&theme=algolia&line_height=27" alt="eliasAllex"/> 
 </p>
 
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasalexandre&layout=compact&show_icons=true&theme=algolia" alt="Langs" />
 </p>
+-->
 
 👋
 - 🔭 I’m currently working on [©Cognu Inc](https://cognu.io)

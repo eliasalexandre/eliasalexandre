@@ -1,6 +1,6 @@
 # Elias Alexandre 
 
-💻 Dev & Founder @[cognu.io](https://cognu.io)
+💻 Dev & Co-Founder @[Seventy Five](https://cognu.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elias%20Alexandre-212134?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-alexandre-9511881a7/)](https://www.linkedin.com/in/elias-alexandre-9511881a7/)
 [![Gmail Badge](https://img.shields.io/badge/-elias.garcia.alexandr@gmail.com-212234?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elias.garcia.alexandr@gmail.com)](mailto:elias.garcia.alexandr@gmail.com)
